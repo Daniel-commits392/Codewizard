@@ -14,6 +14,10 @@ for (let i=0;i<word.length;i++){
     let count = 0;
 
     for (let j=0;j<word.length;j++){
-        if{wo}
+        if(word[i]=== letter){
+            count ++;
+        }
     }
+    console.log(letter)
 }
+
