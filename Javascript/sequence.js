@@ -5,7 +5,9 @@ NOTE: No number limit*/
 
 function numbers (num){
     for (let i=0;1<=num.length;i++){
-       if()
+       if(!num.includes(i)){
+        return i;
+       }
     }
 
 }

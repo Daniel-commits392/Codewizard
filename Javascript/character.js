@@ -6,5 +6,14 @@ Output: "w"
 */
 
 const word = 'Swiss';
-//an object to store rthe counts
+//an object to store the counts
 const count = {};
+//looping  and counting each character
+for (let i=0;i<word.length;i++){
+    const letter =(word[i]);
+    let count = 0;
+
+    for (let j=0;j<word.length;j++){
+        if{wo}
+    }
+}
