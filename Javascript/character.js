@@ -1,5 +1,10 @@
-//using bracket notation
-const greeting = 'Hello';
-console.log(greeting[0]);
-const word = 'Swiss'
-console.log(word[1]);
+/*  Given a string, find the first character that does not repeat anywhere in the string. Return None if all characters repeat.
+Input: "Hello"
+Output: "H"
+Input: "Swiss"
+Output: "w"
+*/
+
+const word = 'Swiss';
+//an object to store rthe counts
+const count = {};
