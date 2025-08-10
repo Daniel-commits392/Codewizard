@@ -13,3 +13,11 @@ def longest_substring(s):
 print(longest_substring('bbbb'))    
 print(longest_substring('bjksdh')) 
 print(longest_substring('fhurimbb'))     
+
+
+#Given a string s, find the length of the longest substring without repeating characters.
+#Example
+#Input: s = "bbbbb"
+#Output: 1
+#Input: s = "pwwkew"
+#Output: 3
